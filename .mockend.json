@@ -10,11 +10,5 @@
     "post": {
       "belongsTo": "Post"
     }
-  },
-  "age": {
-      "int": {
-        "min": 21,
-        "max": 100
-      }
-    }
+  }
 }
